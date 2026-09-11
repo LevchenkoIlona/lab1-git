@@ -3,3 +3,4 @@ fix in 1.txt
 
 My fix in 1.txt
 
+изменение для stash
